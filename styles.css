@@ -19,6 +19,8 @@ h4{
 }
 
 .lists {
+    padding: 0;
+    margin: 0 auto;
     display: inline-block;
     color: black;
     font-family: "Verdana", sans-serif;
