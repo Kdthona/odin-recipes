@@ -17,6 +17,7 @@ h4{
 }
 
 .lists {
+    display: inline-block;
     color: black;
     font-family: "Verdana", sans-serif;
     font size: 14;
