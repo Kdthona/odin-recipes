@@ -19,9 +19,8 @@ h4{
 }
 
 .lists {
-    padding: 0;
+    display: table;
     margin: 0 auto;
-    display: inline-block;
     color: black;
     font-family: "Verdana", sans-serif;
     font size: 14;
@@ -29,6 +28,8 @@ h4{
 }
 
 img {
+    display: block;
+    margin: auto;
     text-align: center;
     height: auto;
     width: 500px;
